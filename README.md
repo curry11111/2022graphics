@@ -361,7 +361,7 @@ int main(int argc, char *argv[])
     return EXIT_SUCCESS;
 }
 ```
-##簡單版三個旋轉
+##茶壺
 ```C
 ///把程式全刪除
 #include <GL/glut.h>
